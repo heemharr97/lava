@@ -1,0 +1,22 @@
+{
+  "name": "lava_rpc_calls",
+  "version": "1.0.0",
+  "description": "since you have no job, yeah!! sit around and make crappy rpc calls",
+  "main": "crappyRpcCalls.js",
+  "scripts": {
+    "start": "node crappyRpcCalls.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lava",
+    "ethereum",
+    "web3",
+    "axios"
+  ],
+  "author": "Enolife",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "",
+    "web3": "^4.5.0"
+  }
+}
